@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=140&section=header&text=Henrique%20Brizolla&fontSize=38&fontColor=f1f5f9&fontAlignY=55&desc=Backend%20Developer%20in%20Progress&descSize=14&descAlignY=75&descColor=94a3b8" width="100%"/>
 <br/>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Building+clean+APIs+with+Django+REST;Turning+coffee+into+endpoints;Always+learning%2C+always+building;Learning+something+new+every+day)](https://git.io/typing-svg)
+
 </div>
 <br/>
 
@@ -45,7 +47,7 @@ Backend developer in progress, focused on writing clean code and building APIs t
 <div align="center">
 
 <a href="https://github.com/opentask-dev/OpenTask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=opentask-dev&repo=OpenTask&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=64748b"/>
+  <img src="https://img.shields.io/badge/OpenTask-opentask--dev%2FOpenTask-334155?style=for-the-badge&logo=github&logoColor=94a3b8"/>
 </a>
 
 </div>
